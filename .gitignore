@@ -76,6 +76,9 @@ DerivedDataCache/*
 # Ignore telemetry files
 Saved/Telemetry/
 
+# Ignore autosaves
+Saved/Autosaves/
+
 # Ignore intermediate files (optional)
 Intermediate/
 
